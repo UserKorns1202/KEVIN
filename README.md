@@ -1,5 +1,5 @@
 # K.E.V.I.N.
-KIND Emulated Voice Integrated Network
+KIND Enhanced Voice Integrated Network
 
 ### Purpose
 K.E.V.I.N. is a voice assistant designed to operate within the KNET server to manipulate and retrieve files for Korns Industries related information and personal use with server access.
