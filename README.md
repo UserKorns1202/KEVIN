@@ -12,3 +12,6 @@ Features K.E.V.I.N. will be able to perform include:
 - Move/Copy/Delete files within KNET
 - Summarize text files upon request
 - Answer questions about the KNET server and users
+
+### Current Work
+Setup LLM to run locally on Raspberry Pi hardware to interact with
